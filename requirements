@@ -1,7 +1,6 @@
 Flask
 gunicorn
 JinjaZ
-MarkingSafe
 werkzeug
 pandas
 sklearn
